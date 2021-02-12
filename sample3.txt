@@ -2,4 +2,8 @@ Sample 3 file
 
 Samplefile2
 
+ 7c6b10659f68f36a94097ab056aa55ac680fee80
 Add newfolde2
+=======
+GSC
+i add sample3 by GSC
