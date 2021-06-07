@@ -1,4 +1,4 @@
 Its a sample file
-Conflict
+devteam change
 MeRed
 MeBlue
